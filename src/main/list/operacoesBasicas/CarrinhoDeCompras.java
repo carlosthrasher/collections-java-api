@@ -41,7 +41,7 @@ public class CarrinhoDeCompras {
         CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
         System.out.println(carrinho.valorTotal());
         carrinho.adicionarItem("pao",0.5,5);
-
+        carrinho.adicionarItem("maça",1,5);
         System.out.println(carrinho.valorTotal());
         carrinho.exibirLista();
     }

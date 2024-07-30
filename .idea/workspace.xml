@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e8ff3ef-e074-43d8-bed7-28b8470cb7d3" name="Changes" comment="Estudo de collection Lis">
-      <change afterPath="$PROJECT_DIR$/src/main/list/operacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/list/operacoesBasicas/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/list/operacoesBasicas/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/list/operacoesBasicas/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8e8ff3ef-e074-43d8-bed7-28b8470cb7d3" name="Changes" comment="Estudo de collection Lis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722211181283</updated>
       <workItem from="1722211182290" duration="5506000" />
-      <workItem from="1722255022887" duration="11493000" />
+      <workItem from="1722255022887" duration="12266000" />
     </task>
     <task id="LOCAL-00001" summary="Estudo de collection Lis">
       <option name="closed" value="true" />
